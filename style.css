@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Montserrat:wght@500&display=swap');
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e7f9e7;
+  font-family: Monserrat;
+}
+h1{
+  font-family: 'Gloock';
+}
+fieldset{
+  background-color: #fbfffa;
+}
